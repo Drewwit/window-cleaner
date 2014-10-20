@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2abff472df3c162419824a461f4f2c2e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {fileID: 400000, guid: d3a03fb4c73742640aa7ffba81c94530, type: 2}
+  - DudeScaffold: {fileID: 100000, guid: 7ad296fa89d56ca4196751f6af007ecb, type: 3}
+  - squeegee: {fileID: 100000, guid: 1b7f55fc222632847a712c85c6b69ac0, type: 3}
+  - staticSqueegee: {fileID: 100000, guid: c8918c1b418674f47936b8dcea079db9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
