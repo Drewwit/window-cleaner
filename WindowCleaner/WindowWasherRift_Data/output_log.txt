@@ -7,64 +7,24 @@ Direct3D:
     VRAM:     1974 MB (via DXGI)
     Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Drewlon\Downloads\window-cleaner-master\window-cleaner-master\WindowCleaner\WindowWasherRift_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Drewlon\Downloads\window-cleaner-master\window-cleaner-master\WindowCleaner\WindowWasherRift_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Drewlon\Downloads\window-cleaner-master\window-cleaner-master\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Drewlon\Downloads\window-cleaner-master\window-cleaner-master\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Drewlon\Downloads\window-cleaner-master\window-cleaner-master\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Drewlon\Downloads\window-cleaner-master\window-cleaner-master\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Drewlon\Downloads\window-cleaner-master\window-cleaner-master\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\Drewlon\Downloads\window-cleaner-master\window-cleaner-master\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Drewlon\Downloads\window-cleaner-master\window-cleaner-master\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\Drewlon\Downloads\window-cleaner-master\window-cleaner-master\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.030 seconds
+Platform assembly: C:\Users\Drewlon\Documents\window-cleaner\WindowCleaner\WindowWasherRift_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Drewlon\Documents\window-cleaner\WindowCleaner\WindowWasherRift_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Drewlon\Documents\window-cleaner\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Drewlon\Documents\window-cleaner\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Drewlon\Documents\window-cleaner\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Drewlon\Documents\window-cleaner\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Drewlon\Documents\window-cleaner\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Drewlon\Documents\window-cleaner\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Drewlon\Documents\window-cleaner\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Drewlon\Documents\window-cleaner\WindowCleaner\WindowWasherRift_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
 <RI> Initializing input.
 <RI> Input initialized.
-desktop: 1920x1080 75Hz; virtual: 1920x1080 at 0,0
-Platform assembly: C:\Users\Drewlon\Downloads\window-cleaner-master\window-cleaner-master\WindowCleaner\WindowWasherRift_Data\Managed\UnityScript.Lang.dll (this message is harmless)
-Platform assembly: C:\Users\Drewlon\Downloads\window-cleaner-master\window-cleaner-master\WindowCleaner\WindowWasherRift_Data\Managed\Boo.Lang.dll (this message is harmless)
-Platform assembly: C:\Users\Drewlon\Downloads\window-cleaner-master\window-cleaner-master\WindowCleaner\WindowWasherRift_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 59Hz; virtual: 1680x1050 at 0,0
+Platform assembly: C:\Users\Drewlon\Documents\window-cleaner\WindowCleaner\WindowWasherRift_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Drewlon\Documents\window-cleaner\WindowCleaner\WindowWasherRift_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Drewlon\Documents\window-cleaner\WindowCleaner\WindowWasherRift_Data\Managed\System.dll (this message is harmless)
 1 windows cleaned this row,6more to go
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-foot sound 01
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-2 windows cleaned this row,5more to go
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-foot sound 01
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-foot sound 02
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-3 windows cleaned this row,4more to go
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-foot sound 01
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-foot sound 02
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-foot sound 01
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-foot sound 02
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-4 windows cleaned this row,3more to go
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
